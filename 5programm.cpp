@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-using namespace std;
+using namespace std; //функции поиска максимального, медианного, минимального значения и перестановка переменных по кругу
 int minimal(int a,int b,int c)
  {
     int k;
