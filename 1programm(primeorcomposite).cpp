@@ -2,7 +2,7 @@
 #include <locale.h>
 #include <stdio.h>
 using namespace std;
-int main()
+int main() //ввод числа с клавиатуры и проверка простое оно или составное
 {
  int n,r,i;
  i=1;
